@@ -1,0 +1,6 @@
+{
+  "name": "KuberPay - Premium Expense & Budget Tracker",
+  "description": "Dark premium finance app for tracking expenses, recurring bills, category budgets, and savings goals in INR (₹) with Python backend.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
