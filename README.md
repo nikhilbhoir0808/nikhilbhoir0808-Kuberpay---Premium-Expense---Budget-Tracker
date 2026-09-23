@@ -78,7 +78,7 @@ There is no cloud backend, no external finance API, and no telemetry — your le
 
 **Ledger**
 <br/>Searchable, filterable transaction history grouped by day
-<img src="screenshots/ledger.png" alt="Ledger" width="100%"/>
+<img src="kuberpay---premium-expense-&-budget-tracker/screenshots/ledger.png" alt="Ledger" width="100%"/>
 
 </td>
 </tr>
@@ -87,14 +87,14 @@ There is no cloud backend, no external finance API, and no telemetry — your le
 
 **Budgets**
 <br/>Per-category limits, utilization bars, and the Over-Budget Guard
-<img src="screenshots/budgets.png" alt="Budgets" width="100%"/>
+<img src="kuberpay---premium-expense-&-budget-tracker/screenshots/budgets.png" alt="Budgets" width="100%"/>
 
 </td>
 <td width="50%">
 
 **Subscriptions & Recurring Bills**
 <br/>Due-date tracking with 1-click "Mark Paid"
-<img src="screenshots/subscriptions.png" alt="Subscriptions" width="100%"/>
+<img src="kuberpay---premium-expense-&-budget-tracker/screenshots/subscriptions.png" alt="Subscriptions" width="100%"/>
 
 </td>
 </tr>
@@ -103,14 +103,14 @@ There is no cloud backend, no external finance API, and no telemetry — your le
 
 **Savings Goals**
 <br/>Ring-fenced pockets for travel, gadgets, vehicles & emergencies
-<img src="screenshots/savings-goals.png" alt="Savings Goals" width="100%"/>
+<img src="kuberpay---premium-expense-&-budget-tracker/screenshots/savings-goals.png" alt="Savings Goals" width="100%"/>
 
 </td>
 <td width="50%">
 
 **Analytics — Spending Trends**
 <br/>Multi-month outflow curve vs. budget ceiling
-<img src="screenshots/analytics-spending-trends.png" alt="Spending Trends" width="100%"/>
+<img src="kuberpay---premium-expense-&-budget-tracker/screenshots/analytics-spending-trends.png" alt="Spending Trends" width="100%"/>
 
 </td>
 </tr>
@@ -119,14 +119,14 @@ There is no cloud backend, no external finance API, and no telemetry — your le
 
 **Bill Splitter**
 <br/>Split a bill, preview the UPI payment request, share via WhatsApp/SMS
-<img src="screenshots/split-bill.png" alt="Split Bill" width="100%"/>
+<img src="kuberpay---premium-expense-&-budget-tracker/screenshots/split-bill.png" alt="Split Bill" width="100%"/>
 
 </td>
 <td width="50%">
 
 **Settings**
 <br/>Account, backend diagnostics, backup/restore, currency, sample data reset
-<img src="screenshots/settings.png" alt="Settings" width="100%"/>
+<img src="kuberpay---premium-expense-&-budget-tracker/screenshots/settings.png" alt="Settings" width="100%"/>
 
 </td>
 </tr>
@@ -135,7 +135,7 @@ There is no cloud backend, no external finance API, and no telemetry — your le
 
 **Sign In**
 <br/>Local username/password auth, demo account, and Guest Mode
-<img src="screenshots/auth-modal.png" alt="Sign in" width="100%"/>
+<img src="kuberpay---premium-expense-&-budget-tracker/screenshots/auth-modal.png" alt="Sign in" width="100%"/>
 
 </td>
 <td width="50%"></td>
