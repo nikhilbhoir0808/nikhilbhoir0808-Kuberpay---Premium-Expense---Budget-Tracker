@@ -71,7 +71,8 @@ There is no cloud backend, no external finance API, and no telemetry — your le
 
 **Overview Dashboard**
 <br/>Real-time balance, quick actions, and the AI Budget Trajectory forecast
-<img src="screenshots/overview.png" alt="Overview dashboard" width="100%"/>
+<img src="Kuberpay---Premium-Expense---Budget-Tracker/kuberpay---premium-expense-&-budget-tracker
+/screenshots/overview.png" alt="Overview dashboard" width="100%"/>
 
 </td>
 <td width="50%">
